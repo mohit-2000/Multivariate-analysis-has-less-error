@@ -1,0 +1,10 @@
+,Models Type,Models Error values
+0,SVM_MSE,4.221012384873484
+1,DNN_Univariate_MSE,1.8138532036112287
+2,GRU_Univariate_MSE (When loss=mae),0.4902406172697699
+3,GRU_Univariate_MSE (When loss=mse),0.6782742978734357
+4,RBNF_Univariate_MSE (When loss=mae),0.8358663567744103
+5,RBNF_Univariate_MSE (When loss=mse),1.557307989239662
+6,LSTM_Univariate_MSE (When loss=mae),0.424792679462451
+7,LSTM_Univariate_MSE (When loss=mse),0.4853913804756831
+8,Arima univariate model MSE,1.206896768628151

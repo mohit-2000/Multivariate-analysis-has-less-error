@@ -1,0 +1,37 @@
+,Models Type,Models Error values
+0,SVM_MAE,1.5594998767033987
+1,SVM_MSE,4.221012384873484
+2,MULTI_SVM_MAE,1.6452997544508723
+3,MULTI_SVM_MSE,4.876176039479171
+4,DNN_Univariate_MAE,1.0175547822992854
+5,DNN_Univariate_MSE,1.8436213519606262
+6,DNN_Multivariate_MAE,0.9919240829792428
+7,DNN_Multivariate_MSE,1.6808001581999918
+8,GRU_Univariate_MAE (When loss=mae),0.5438744798536557
+9,GRU_Univariate_MSE (When loss=mae),0.4718001878026203
+10,GRU_Univariate_MAE (When loss=mse),0.6331535885622182
+11,GRU_Univariate_MSE (When loss=mse),0.585477544843249
+12,GRU_Multivariate_MAE (When loss=mae),0.5631561043264316
+13,GRU_Multivariate_MSE (When loss=mae),0.48530902538490217
+14,GRU_Multivariate_MAE (When loss=mse),0.5639963496704454
+15,GRU_Multivariate_MSE (When loss=mse),0.4819328787155168
+16,RBFN_Univariate_MAE (When loss=mae),0.829771172120767
+17,RBNF_Univariate_MSE (When loss=mae),0.9923253692848166
+18,RBFN_Univariate_MAE (When loss=mse),1.0022578063995502
+19,RBNF_Univariate_MSE (When loss=mse),1.4550886015675883
+20,RBFN_Multivariate_MAE (When loss=mae),1.1515349167950266
+21,RBNF_Multivariate_MSE (When loss=mae),1.9766986550109447
+22,RBFN_Multivariate_MAE (When loss=mse),0.9049935455505627
+23,RBNF_Multivariate_MSE (When loss=mse),1.1761655165622416
+24,LSTM_Univariate_MAE (When loss=mae),0.4820328420452067
+25,LSTM_Univariate_MSE (When loss=mae),0.4285133519008987
+26,LSTM_Univariate_MAE (When loss=mse),0.5517536139984124
+27,LSTM_Univariate_MSE (When loss=mse),0.4825777985703266
+28,LSTM_Multivariate_MAE (When loss=mae),0.43009329326392204
+29,LSTM_Multivariate_MSE (When loss=mae),0.34445569248807084
+30,LSTM_Multivariate_MAE (When loss=mse),0.46660023817742563
+31,LSTM_Multivariate_MSE (When loss=mse),0.38024905308350204
+32,Arima univariate model MAE,0.7978299882112241
+33,Arima univariate model MSE,1.206896768628151
+34,Arima Multivariate model MAE,0.8033551863205933
+35,Arima Multivariate model MSE,1.3127680377918827

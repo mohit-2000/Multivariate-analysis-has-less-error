@@ -1,0 +1,10 @@
+,Models Type,Models Error values
+0,MULTI_SVM_MSE,4.876176039479171
+1,DNN_Multivariate_MSE,1.7646130638506692
+2,GRU_Multivariate_MSE (When loss=mae),0.48352148439435205
+3,GRU_Multivariate_MSE (When loss=mse),0.4265407002780414
+4,RBNF_Multivariate_MSE (When loss=mae),1.0848155117444644
+5,RBNF_Multivariate_MSE (When loss=mse),1.3033247788497075
+6,LSTM_Multivariate_MSE (When loss=mae),0.3611066427710989
+7,LSTM_Multivariate_MSE (When loss=mse),0.39428944186352344
+8,Arima Multivariate model MSE,1.3127680377918827
